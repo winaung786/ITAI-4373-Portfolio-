@@ -1,56 +1,23 @@
-# AI Portfolio - Win Aung
+# Applied AI Portfolio: Win Aung
 
-## Name
-**Win Aung**
+## Overview
+This portfolio showcases my work in Machine Learning Engineering and Generative AI as part of my capstone program at Houston Community College. My focus is on developing practical AI solutions with emphasis on deep learning, natural language processing, and edge computing implementations. I am passionate about building scalable ML systems and exploring cutting-edge generative AI technologies to solve real-world problems.
 
-## Program Overview
-This portfolio showcases my work and projects completed during my AI degree capstone program. It demonstrates practical applications of artificial intelligence concepts, including deep learning, natural language processing, and edge computing implementations. The repository is organized by course, with each directory containing relevant projects, assignments, and documentation.
-
-### Degree Program
-- **Program**: Artificial Intelligence
-- **Course Code**: ITAI 4373
-- **Institution**: [Your Institution Name]
-
-## Core Skills
-Throughout this program, I have developed and demonstrated proficiency in the following areas:
-
-### Technical Skills
-- **Machine Learning & Deep Learning**: Neural networks, CNNs, RNNs, transformers
+## Core Technical Skills
+- **Python & ML Frameworks**: TensorFlow, PyTorch, scikit-learn
+- **Deep Learning**: Neural networks, CNNs, RNNs, transformers
 - **Natural Language Processing**: Text processing, sentiment analysis, language models
-- **AI at the Edge**: Model optimization, edge deployment, embedded AI systems
-- **Programming Languages**: Python, with libraries including TensorFlow, PyTorch, scikit-learn
-- **Data Analysis**: NumPy, Pandas, Matplotlib, Seaborn
-- **Development Tools**: Jupyter Notebooks, Git, version control
-
-### Soft Skills
-- Problem-solving and analytical thinking
-- Research and documentation
-- Project management and organization
-- Continuous learning and adaptation
+- **MLOps & Deployment**: Model optimization, edge deployment, production ML systems
+- **Data Analysis & Visualization**: NumPy, Pandas, Matplotlib, SHAP
 
 ## Project Index
 
-### Course Projects
-
-#### 1. Deep Learning - ITAI 2376
-📁 **Directory**: [`DeepLearning-ITAI2376/`](./DeepLearning-ITAI2376/)
-- Deep learning fundamentals and neural network architectures
-- Projects involving CNNs, RNNs, and advanced model training
-
-#### 2. Natural Language Processing - ITAI 2373
-📁 **Directory**: [`NLP-ITAI2373/`](./NLP-ITAI2373/)
-- Text processing and analysis techniques
-- Language models and NLP applications
-
-#### 3. AI at the Edge - ITAI 3377
-📁 **Directory**: [`AI_at_the_Edge-ITAI3377/`](./AI_at_the_Edge-ITAI3377/)
-- Edge computing and embedded AI systems
-- Model optimization and deployment strategies
-
-### Presentations
-📁 **Directory**: [`Presentation/`](./Presentation/)
-- Capstone and course presentation slides
-- Project demonstrations and technical talks
+| Course Folder | Description |
+|---------------|-------------|
+| [`DeepLearning-ITAI2376/`](./DeepLearning-ITAI2376/) | Deep learning fundamentals and neural network architectures. Includes image classification projects using CNNs, RNNs, and advanced model training techniques. |
+| [`NLP-ITAI2373/`](./NLP-ITAI2373/) | Natural language processing projects featuring text processing, sentiment analysis, and language model implementations. |
+| [`AI_at_the_Edge-ITAI3377/`](./AI_at_the_Edge-ITAI3377/) | Edge computing and embedded AI systems with focus on model optimization and deployment strategies for resource-constrained environments. |
+| [`Presentation/`](./Presentation/) | Capstone and course presentation slides, project demonstrations, and technical talks. |
 
 ## Repository Structure
 ```
@@ -86,7 +53,8 @@ pip install -r requirements.txt
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- **Name**: Win Aung
+- **LinkedIn**: [linkedin.com/in/winaung](https://linkedin.com/in/winaung)
+- **Email**: winaung@example.com
 - **GitHub**: [@winaung786](https://github.com/winaung786)
 
 ---
