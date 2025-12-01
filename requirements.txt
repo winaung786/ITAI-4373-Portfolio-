@@ -1,1 +1,62 @@
+# Applied AI Portfolio - Python Dependencies
 
+# Core Python Libraries
+numpy>=1.19.0
+pandas>=1.2.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Deep Learning Frameworks
+torch>=1.9.0
+torchvision>=0.10.0
+tensorflow>=2.5.0
+keras>=2.4.0
+
+# Natural Language Processing
+transformers>=4.20.0
+nltk>=3.6
+spacy>=3.0
+sentencepiece>=0.1.96
+
+# Computer Vision
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+scipy>=1.6.0
+
+# Data Visualization
+plotly>=5.0.0
+
+# Development Tools
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+ipython>=7.20.0
+
+# API Development
+fastapi>=0.68.0
+uvicorn>=0.15.0
+flask>=2.0.0
+
+# Testing
+pytest>=6.2.0
+pytest-cov>=2.12.0
+
+# Code Quality
+black>=21.0
+flake8>=3.9.0
+pylint>=2.8.0
+
+# Utilities
+tqdm>=4.60.0
+requests>=2.25.0
+python-dotenv>=0.17.0
+
+# Edge AI (Optional - for edge deployment projects)
+# tensorflow-lite>=2.5.0
+# onnx>=1.9.0
+# onnxruntime>=1.8.0
+
+# Note: Install edge AI dependencies separately if working on edge projects
+# For Raspberry Pi projects, additional system dependencies may be required
