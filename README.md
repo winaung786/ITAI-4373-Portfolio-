@@ -1,5 +1,7 @@
 # 🤖 Applied AI Portfolio: Win Ko Aung
 
+> **📖 NEW TO THIS PORTFOLIO?** Start with [QUICK_START.md](QUICK_START.md) for a complete guide on how to add your content!
+
 ## 👨‍🎓 About Me
 **Name:** Win Ko Aung  
 **Program:** Applied AI & Robotics  
@@ -109,6 +111,18 @@ This portfolio demonstrates:
 - **LinkedIn:** [linkedin.com/in/winkoaung](https://linkedin.com/in/winkoaung)
 - **GitHub:** [github.com/winaung786](https://github.com/winaung786)
 - **Portfolio:** This Repository
+
+---
+
+## 📚 Portfolio Documentation
+
+This repository includes comprehensive helper documentation:
+
+- **[QUICK_START.md](QUICK_START.md)** - Complete guide to finish your portfolio ⭐ START HERE
+- **[BUILD_SUMMARY.md](BUILD_SUMMARY.md)** - Summary of what was built
+- **[PROJECT_TEMPLATE.md](PROJECT_TEMPLATE.md)** - Template for documenting projects
+- **[VALIDATION_CHECKLIST.md](VALIDATION_CHECKLIST.md)** - Pre-submission checklist
+- **[ENHANCEMENTS.md](ENHANCEMENTS.md)** - Optional improvements and best practices
 
 ## 📝 License
 This repository is maintained for educational purposes as part of the HCC Applied AI & Robotics program.
