@@ -2,7 +2,7 @@
 # Applied AI Portfolio: [Your Full Name]
 
 ## Professional Summary
-A prospective AI/ML engineer specializing in [Your Specialization—e.g., ML Engineering or Generative AI], passionate about delivering end‑to‑end solutions from data pipelines and model development to deployment and responsible AI practices.
+A prospective AI/ML engineer specializing in Applied Artificial Intelligence, skilled in building practical end-to-end solutions—from data preprocessing and model development to deployment and responsible AI practices. Passionate about creating real-world AI systems that are ethical, efficient, and human-centered.
 
 ## Core Technical Skills
 - Python (Advanced), SQL, Bash  
