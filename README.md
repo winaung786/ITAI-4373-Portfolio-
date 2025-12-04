@@ -21,5 +21,5 @@ A prospective AI/ML engineer specializing in [Your Specialization—e.g., ML Eng
 | **Presentation** | Final presentation slides summarizing portfolio projects. |
 
 ## Contact & Links
-- LinkedIn: [Your LinkedIn URL]  
-- Email: [your.email@example.com]  
+
+- Email: W214020049@student.hccs.edu
